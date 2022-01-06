@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/StgBank/app/src/main/res/drawable/background_title_name.xml" value="0.16927083333333334" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.16927083333333334" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/drawable/bottomsheetbackground.xml" value="0.16927083333333334" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/drawable/button_background.xml" value="0.16927083333333334" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/drawable/edittextbackground.xml" value="0.16927083333333334" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/activity_all_transactions.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/activity_all_users.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/activity_transaction_result.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/activity_transfer_money.xml" value="0.16666666666666666" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/all_user_adapter.xml" value="0.3333333333333333" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/fragment_amount.xml" value="0.3333333333333333" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/layout/transaction_adapter.xml" value="0.3333333333333333" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/menu/menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16927083333333334" />
+        <entry key="..\:/android projects/StgBank/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16927083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
